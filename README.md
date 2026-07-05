@@ -259,7 +259,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Crash Analysis
 
-(Add image)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f68bf755-b813-4b97-9573-9f03de0c39fe" />
+
 
 ---
 
