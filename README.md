@@ -252,7 +252,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Outdoor Flight
 
-(Add image)
+<img width="1653" height="852" alt="Screenshot" src="https://github.com/user-attachments/assets/06a8ac43-bac6-48a3-87b2-4bc53ccb216f" />
+
 
 ---
 
