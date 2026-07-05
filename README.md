@@ -214,7 +214,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Hardware Assembly
 
-(Add image)
+<img width="1045" height="1210" alt="image" src="https://github.com/user-attachments/assets/330c2730-9fa8-4549-8463-0dd06725b60b" />
+
 
 ---
 
