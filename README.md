@@ -5,11 +5,13 @@
 ### Complete Design, Assembly, Calibration & Flight Testing
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Platform](https://img.shields.io/badge/Platform-Pixhawk-blue)
-![Mission%20Planner-ArduPilot-orange)
-![University-Islamia%20University%20of%20Bahawalpur-red)
-![Semester-4th-blueviolet)
-![License-MIT-green)
+![Drone](https://img.shields.io/badge/Drone-F450-blue)
+![Flight%20Controller](https://img.shields.io/badge/Flight%20Controller-Pixhawk-orange)
+![Firmware](https://img.shields.io/badge/Firmware-ArduPilot-red)
+![Software](https://img.shields.io/badge/Software-Mission%20Planner-brightgreen)
+![Course](https://img.shields.io/badge/Course-Introduction%20to%20Robotics-purple)
+![University](https://img.shields.io/badge/University-The%20Islamia%20University%20of%20Bahawalpur-darkgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
