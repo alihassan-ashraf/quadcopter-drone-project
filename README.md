@@ -245,7 +245,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Calibration
 
-(Add image)
+<img width="1600" height="1200" alt="WhatsApp Image 2026-05-31 at 11 46 29 PM (1)" src="https://github.com/user-attachments/assets/99fd86a9-f71a-48e3-ac1c-27baad01df80" />
+
 
 ---
 
