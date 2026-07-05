@@ -208,7 +208,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Fully Assembled Drone
 
-(Add image here)
+<img width="593" height="489" alt="image" src="https://github.com/user-attachments/assets/b244d78d-05a6-41e2-9989-431df18c9c78" />
+
 
 ---
 
