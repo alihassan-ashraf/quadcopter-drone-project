@@ -31,6 +31,14 @@ The project provided practical experience in robotics, embedded systems, UAV tec
 
 ---
 
+## 📚 Project Documentation
+
+A comprehensive **50-page project booklet** is included, documenting the complete development process from hardware selection to successful flight testing.
+
+📄 **[Download the F450 Quadcopter Project Booklet](Quadcopter_Project_Booklet.pdf)**
+
+---
+
 # 🎯 Objectives
 
 - Build a fully functional quadcopter from scratch
