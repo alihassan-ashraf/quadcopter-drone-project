@@ -264,7 +264,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Final Repaired Drone
 
-(Add image)
+<img width="3648" height="2736" alt="IMG_6428" src="https://github.com/user-attachments/assets/9b814730-de20-4d02-8715-c6da971c6790" />
+
 
 ---
 
