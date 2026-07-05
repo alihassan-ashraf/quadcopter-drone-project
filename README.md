@@ -309,17 +309,6 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ---
 
-# 📚 Documentation
-
-A complete **50-page illustrated booklet** is included explaining every stage of the project.
-
-```
-docs/
-    Quadcopter_Project_Booklet.pdf
-```
-
----
-
 # 📂 Repository Structure
 
 ```
