@@ -238,7 +238,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Mission Planner
 
-(Add image)
+<img width="1919" height="1142" alt="Screenshot 2026-05-25 103034" src="https://github.com/user-attachments/assets/ec349f6b-fc16-473d-a084-9b49fdcac2e8" />
+
 
 ---
 
