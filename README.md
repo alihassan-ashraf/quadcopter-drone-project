@@ -261,6 +261,7 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f68bf755-b813-4b97-9573-9f03de0c39fe" />
 
+<img width="1200" height="1600" alt="afterCrash" src="https://github.com/user-attachments/assets/5fc531f2-d391-49fc-b15a-5261310f531f" />
 
 ---
 
