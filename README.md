@@ -230,7 +230,8 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Pixhawk Installation
 
-(Add image)
+<img width="503" height="503" alt="image" src="https://github.com/user-attachments/assets/ee0a1a5c-8c89-4806-8d0e-3c8bc14c3e76" />
+
 
 ---
 
