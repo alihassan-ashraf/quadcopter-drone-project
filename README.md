@@ -221,7 +221,10 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 ## Wiring
 
-(Add image)
+
+<img width="422" height="463" alt="image" src="https://github.com/user-attachments/assets/bd603c63-caf0-4dfd-a20f-cac33c583a31" />
+
+<img width="369" height="389" alt="image" src="https://github.com/user-attachments/assets/95fa0e54-cc3e-4abb-bd80-dc3eb690eb06" />
 
 ---
 
