@@ -285,17 +285,12 @@ This project demonstrates the importance of systematic troubleshooting and itera
 
 # 🎥 Demonstration Videos
 
-## Assembly
+## Assembly & ## Calibration
 
-(Add video)
-
----
-
-## Calibration
-
-(Add video)
+https://youtube.com/shorts/9c2CSzWownA?feature=share
 
 ---
+
 
 ## First Flight
 
