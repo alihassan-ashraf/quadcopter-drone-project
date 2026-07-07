@@ -112,7 +112,6 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 - Mission Planner
 - ArduPilot Firmware
 - Pixhawk Firmware
-- Windows PC
 
 ---
 
