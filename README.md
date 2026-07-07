@@ -100,10 +100,10 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 | BLDC Motors A2212 1400KV | 4 |
 | ESC 30A | 4 |
 | Propellers | 4 |
-| FlySky FS-i6 Transmitter | 1 |
-| FlySky Receiver | 1 |
-| Li-Po Battery | 1 |
-| Shook Absorber | 1 |
+| FlySky FS-i6x Transmitter | 1 |
+| FlySky FS-i6x Receiver | 1 |
+| 3S Li-Po Battery | 1 |
+| Shock Absorber | 1 |
 
 ---
 
