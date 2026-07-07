@@ -95,7 +95,7 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 |------------|---------|
 | F450 Frame | 1 |
 | Pixhawk Flight Controller | 1 |
-| GPS Module | 1 |
+| M8N GPS Module | 1 |
 | Power Module | 1 |
 | BLDC Motors A2212 1400KV | 4 |
 | ESC 30A | 4 |
