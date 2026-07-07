@@ -99,7 +99,7 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 | Power Module | 1 |
 | BLDC Motors A2212 1400KV | 4 |
 | ESC 30A | 4 |
-| Propellers | 4 |
+| 1045 Propellers | 4 |
 | FlySky FS-i6x Transmitter | 1 |
 | FlySky FS-i6x Receiver | 1 |
 | 3S Li-Po Battery | 1 |
