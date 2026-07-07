@@ -187,6 +187,7 @@ Damage included:
 
 - Broken propellers
 - Damaged frame arm
+- Broken landing gear
 
 The root cause was investigated, damaged components were replaced, and the drone successfully returned to flight.
 
