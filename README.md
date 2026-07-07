@@ -103,7 +103,7 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 | FlySky FS-i6 Transmitter | 1 |
 | FlySky Receiver | 1 |
 | Li-Po Battery | 1 |
-| Power Distribution Board | 1 |
+| Shook Absorber | 1 |
 
 ---
 
