@@ -296,7 +296,7 @@ https://youtube.com/shorts/9c2CSzWownA?feature=share
 This video captures the **initial outdoor flight test** of the F450 Quadcopter. Although the drone successfully took off, minor instability was observed due to incomplete GPS calibration and unconfigured flight modes on the FlySky FS-i6X transmitter. These issues were identified during testing and were successfully resolved in later flights, demonstrating the iterative engineering and troubleshooting process.
 
 ▶️ **Watch the First Flight Test:**  
-
+https://www.youtube.com/shorts/BqqkSOWGfMc
 
 ---
 
