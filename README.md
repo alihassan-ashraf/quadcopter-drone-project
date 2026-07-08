@@ -300,7 +300,7 @@ https://youtube.com/shorts/9c2CSzWownA?feature=share
 
 ## Successful Flight
 
-(Add video)
+
 
 ---
 
