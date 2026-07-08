@@ -294,7 +294,7 @@ https://youtube.com/shorts/9c2CSzWownA?feature=share
 
 ## First Flight
 
-(Add video)
+
 
 ---
 
