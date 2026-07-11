@@ -54,6 +54,39 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 
 ---
 
+# ✨ Features
+
+✅ Complete F450 drone assembly
+
+✅ Pixhawk Flight Controller
+
+✅ GPS Navigation Module
+
+✅ Brushless DC Motors
+
+✅ Electronic Speed Controllers (ESC)
+
+✅ FlySky Transmitter & Receiver
+
+✅ Mission Planner Configuration
+
+✅ Accelerometer Calibration
+
+✅ Compass Calibration
+
+✅ Radio Calibration
+
+✅ ESC Calibration
+
+✅ Flight Mode Configuration
+
+✅ Real Flight Testing
+
+✅ Crash Investigation
+
+✅ Drone Repair
+
+---
 
 # 🛠 Hardware Used
 
