@@ -306,32 +306,7 @@ This video showcases the successful and stable flight of the custom-built **F450
 ▶️ **Watch the Successful Flight Test:**  
 https://www.youtube.com/watch?v=xQkxRJjSvNA
 
-# 📂 Repository Structure
 
-```
-quadcopter-drone-project
-│
-├── README.md
-├── LICENSE
-├── docs
-│   └── Quadcopter_Project_Booklet.pdf
-│
-├── images
-│   ├── assembly
-│   ├── calibration
-│   ├── wiring
-│   ├── flight
-│   ├── crash
-│   └── repair
-│
-├── videos
-│   ├── assembly.mp4
-│   ├── calibration.mp4
-│   ├── first-flight.mp4
-│   └── final-flight.mp4
-│
-└── wiring-diagrams
-```
 
 ---
 
