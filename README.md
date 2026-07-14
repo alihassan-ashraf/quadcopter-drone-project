@@ -88,23 +88,6 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 
 ---
 
-# 🛠 Hardware Used
-
-| Component | Quantity |
-|------------|---------|
-| F450 Frame | 1 |
-| Pixhawk 2.4.8 Flight Controller | 1 |
-| M8N GPS Module | 1 |
-| Power Module | 1 |
-| BLDC Motors A2212 1400KV | 4 |
-| ESC 30A | 4 |
-| 1045 Propellers | 4 |
-| FlySky FS-i6x Transmitter | 1 |
-| FlySky FS-i6x Receiver | 1 |
-| 3S Li-Po Battery | 1 |
-| Shock Absorber | 1 |
-
----
 
 # 💻 Software
 
