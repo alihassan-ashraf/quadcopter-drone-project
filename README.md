@@ -41,18 +41,7 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 📄 **[F450 Quadcopter Project Booklet](Quadcopter_Project_Booklet.pdf)**
 ---
 
-# 🎯 Objectives
 
-- Build a fully functional quadcopter from scratch
-- Understand UAV architecture
-- Learn Pixhawk flight controller configuration
-- Configure Mission Planner
-- Perform complete sensor calibration
-- Understand ESC and motor synchronization
-- Test real outdoor flight
-- Analyze failures and improve system reliability
-
----
 
 # ✨ Features
 
