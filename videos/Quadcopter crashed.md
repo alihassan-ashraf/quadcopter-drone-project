@@ -2,4 +2,4 @@
 
 This video captures the crash during flight testing and highlights the importance of proper system configuration and pre-flight checks.
 
-▶️ https://www.youtube.com/watch?v=YOUR_VIDEO_LINK
+▶️ https://www.youtube.com/shorts/kM7MW0lxpV8
