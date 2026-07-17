@@ -112,6 +112,8 @@ The complete Bill of Materials provides a detailed breakdown of every hardware c
 
 ➡️ **[View Bill of Materials](hardware/Bill_of_Materials.md)**
 
+---
+
 # 💻 Software
 
 - Mission Planner
