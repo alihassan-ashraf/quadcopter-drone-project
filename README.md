@@ -38,7 +38,7 @@ The project provided practical experience in robotics, embedded systems, UAV tec
 
 A comprehensive **50-page project booklet** is included, documenting the complete development process from hardware selection to successful flight testing.
 
-📄 **[F450 Quadcopter Project Booklet](docs/Quadcopter_Project_Booklet.pdf)**
+📄 **[Project Booklet](docs/Quadcopter_Project_Booklet.pdf)**
 ---
 
 # 🎯 Objectives
@@ -105,6 +105,12 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 | Shock Absorber | 1 |
 
 ---
+
+# 🔧 Bill of Materials (BOM)
+
+The complete Bill of Materials provides a detailed breakdown of every hardware component used in this project, including specifications, quantities, functions, estimated prices, and the overall project cost.
+
+➡️ **[View Bill of Materials](hardware/Bill_of_Materials.md)**
 
 # 💻 Software
 
