@@ -344,6 +344,7 @@ quadcopter-drone-project
 │   ├── ESCs & motor connection
 │   ├── ESCs & Pixhawk connection
 │   ├── Pixhawk & Receiver connection
+│
 ```
 
 ---
