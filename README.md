@@ -325,20 +325,25 @@ quadcopter-drone-project
 │   └── Quadcopter_Project_Booklet.pdf
 │
 ├── images
-│   ├── assembly
+│   ├── hardware setup
+│   ├── pixhawk installed
 │   ├── calibration
-│   ├── wiring
 │   ├── flight
 │   ├── crash
 │   └── repair
 │
 ├── videos
-│   ├── assembly.mp4
+│   ├── assembly & calibration.mp4
 │   ├── calibration.mp4
 │   ├── first-flight.mp4
+│   ├── second-flight.mp4
+│   ├── stable-hovering.mp4
 │   └── final-flight.mp4
 │
-└── wiring-diagrams
+├── wiring
+│   ├── ESCs & motor connection
+│   ├── ESCs & Pixhawk connection
+│   ├── Pixhawk & Receiver connection
 ```
 
 ---
