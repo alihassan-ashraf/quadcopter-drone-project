@@ -108,7 +108,7 @@ A comprehensive **50-page project booklet** is included, documenting the complet
 
 # 🔧 Bill of Materials (BOM)
 
-The complete Bill of Materials provides a detailed breakdown of every hardware component used in this project, including specifications, quantities, functions, estimated prices, and the overall project cost.
+The complete Bill of Materials provides a detailed breakdown of every hardware component used in this project, including specifications, quantities, functions, estimated prices, and the overall project cost.khbkjbhjh 
 
 ➡️ **[View Bill of Materials](hardware/Bill_of_Materials.md)**
 
