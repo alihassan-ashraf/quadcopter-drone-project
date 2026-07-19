@@ -30,7 +30,7 @@ This project presents the complete development of an **F450 Quadcopter Drone** b
 
 Unlike many drone projects that only show the final product, this repository documents the **entire engineering workflow**, beginning from component selection and hardware assembly to software configuration, calibration, flight testing, troubleshooting, crash analysis, repair, and successful re-flight.
 
-The project provided practical experience in robotics, embedded systems, UAV technology, flight control, electronics integration, and system debugging.hgfytfkuyv
+The project provided practical experience in robotics, embedded systems, UAV technology, flight control, electronics integration, and system debugging.
 
 ---
 
